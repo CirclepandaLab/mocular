@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=circlepandalabs">
-    <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@circlepandalabs" alt="Follow @circlepandalabs" />
+    <img src="https://img.shields.io/twitter/follow/circlepandalabs?style=social" />
   </a>
 </p>
 
